@@ -1,3 +1,10 @@
+## DATASETS FOR AI
+https://www.kaggle.com/datasets/sshikamaru/car-object-detection/
+https://www.kaggle.com/datasets/daggysheep/find-a-car-park/
+
+## CODE ON KAGGLE FOR AI
+https://www.kaggle.com/code/andrewchen2804/yolo-time
+
 #Autonomous Car Report ‘NOVUS’
 ##Our Solution to the Problem: 
 	Fascinating as self-driving cars may be, creating complex systems working in unison to provide users with a safe yet comfortable driving experience is a difficult challenge. Therefore, our team has created the ‘NOVUS’ car that depicts how an autonomous car would function through the integration of simulation and code.
