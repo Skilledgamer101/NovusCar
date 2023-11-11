@@ -138,30 +138,26 @@ def move(other_car, user_car):
         window.blit(text10, textRect10)
         pygame.display.update()
         time.sleep(0.5)
-        for i in range(10):
+        for i in range(50):
             user_car.left()
-            time.sleep(0.1)
     elif (check(other_car, user_car) == "right"):
         window.blit(text9, textRect9)
         pygame.display.update()
         time.sleep(0.5)
-        for i in range(10):
+        for i in range(50):
             user_car.right()
-            time.sleep(0.1)
     elif (check(other_car, user_car) == "up"):
         window.blit(text12, textRect12)
         pygame.display.update()
         time.sleep(0.5)   
-        for i in range(10):
+        for i in range(50):
             user_car.up()
-            time.sleep(0.1)
     elif (check(other_car, user_car) == "down"):
         window.blit(text11, textRect11)
         pygame.display.update()
         time.sleep(0.5)
-        for i in range(10):
+        for i in range(50):
             user_car.down()
-            time.sleep(0.1)
     else:
         if 10500 <= ticks <= 15000:
             user_car.down()
