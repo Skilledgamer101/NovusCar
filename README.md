@@ -1,11 +1,17 @@
-# How To Play
-1. Download all the files in this folder to one folder on your PC.
-2. Install pygame through the terminal by typing `pip install pygame`
-3. Open the *.PY file in a code editor such as [Visual Studio Code](https://code.visualstudio.com/download).
-4. Run the file.
+## Project
+The goal of this project was to design an autonomous car.
+This project fulfilled 4 features of such a car: 
+1. Automatic parking
+2. Object detection
+3. Hands-free communication
+4. Collision prevention
 
-You can see a demo [here](https://www.linkedin.com/posts/mansoor-lunawadi_are-you-ready-to-experience-a-new-kind-of-activity-7079223262139863040-1r1Z?utm_source=share&utm_medium=member_desktop)!
+## Install Dependencies
+### Simulation
+pip install pygame
 
-*Soundtrack: Geoplex - Prismatic*
-
-*Inspired by Geometry Dash*
+## Contributors
+[Ronav Roy Chowdhury](https://github.com/Swwwerve) ---
+[Daniel Oliveira](https://github.com/GriDaniel) ---
+[Mansoor Lunawadi](https://github.com/Skilledgamer101) ---
+[Andrew Chen](https://github.com/Achen2804)
